@@ -1,2 +1,1 @@
 # study_note01_multimodalretrieval
-# study_note01_multimodalretrieval
